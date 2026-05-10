@@ -1,0 +1,31 @@
+{
+  "full_name": "Raktima Barman",
+  "name": "Raktima",
+  "current_role": "Data Scientist & AI/ML Engineer at AB InBev GCC",
+  "location": "Bangalore, India",
+  "email": "reddish.rad@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/raktimabarman96/",
+  "specialties": [
+    "LLM & GenAI Systems (Azure OpenAI, CrewAI, multi-agent orchestration)",
+    "MLOps & Cloud Platforms (Azure Databricks, Functions, FastAPI)",
+    "Computer Vision & NLP (YOLO, DETR, PaddleOCR)"
+  ],
+  "years_experience": 4,
+  "education": [
+    {
+      "degree": "M.Tech in Data Science",
+      "institution": "Jawaharlal Nehru University (JNU)",
+      "year": "2019-2021"
+    },
+    {
+      "degree": "M.Sc in Computer Science",
+      "institution": "University of Calcutta",
+      "year": "2016-2018"
+    },
+    {
+      "degree": "B.Sc in Computer Science",
+      "institution": "University of Calcutta",
+      "year": "2013-2016"
+    }
+  ]
+}
